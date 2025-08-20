@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="https://picsum.photos/200" />
+        <img src="unnamed.jpg" />
       </main>
 
       <Footer />
