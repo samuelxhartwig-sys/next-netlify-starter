@@ -11,9 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="unnamed.jpg" />
+        <img src="unnamed.jpg" style={{ maxWidth: '600px', height: 'auto' }} />
       </main>
-
       <Footer />
     </div>
   )
